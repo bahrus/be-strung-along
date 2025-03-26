@@ -1,0 +1,20 @@
+{
+  "name": "be-strung-along",
+  "version": "0.0.0",
+  "description": "Auto generate attributes via peer or ancestor elements",
+  "homepage": "https://github.com/bahrus/be-strung-along#readme",
+  "bugs": {
+    "url": "https://github.com/bahrus/be-strung-along/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrus/be-strung-along.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
